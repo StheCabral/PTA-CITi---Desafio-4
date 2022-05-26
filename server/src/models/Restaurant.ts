@@ -12,6 +12,6 @@ export class Restaurant {
     adress: string
 
     @Column()
-    Specialty: string
+    specialty: string
 
 }
